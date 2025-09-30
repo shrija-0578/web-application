@@ -37,7 +37,7 @@
             Q<sup>Superscript text</sup>...<strong>Important text</strong>...
             <del>Deleted text</del>
             </p>
-            
+            <p style="font-family:courier;color:blue;font-size:300%;text-align:center;">Style formating   </p>
 
         </body>
 </html>
