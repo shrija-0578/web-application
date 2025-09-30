@@ -31,5 +31,13 @@
             <dd>oreo shake is tasty</dd>
             
         </dl>
-    </body>
+        <h2>Formating</h2>
+        <p>this is inline formatting <br> <b>bold</b>...<i>italic</i>...<u>underline</u>...<em> Emphasized text</em>... 
+            <mark>Marked text</mark>...<small>Smaller text</small>... Q<sub>Subscript text</sub>... 
+            Q<sup>Superscript text</sup>...<strong>Important text</strong>...
+            <del>Deleted text</del>
+            </p>
+            
+
+        </body>
 </html>
