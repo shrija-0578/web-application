@@ -40,6 +40,11 @@
             <p style="font-family:courier;color:blue;font-size:300%;text-align:center;">Style formating   </p>
         <hr>
         <h2>Line tag</h2>
+        <h2>Anchor tag</h2>
+        <p>this tag helps to add link to a text </p>
+        <a href="https://google.com">link to google</a>
+        <p>for openning in new tab</p>
+        <a href="https://google.com" target="_blank">link to google new</a>
         
 
         </body>
