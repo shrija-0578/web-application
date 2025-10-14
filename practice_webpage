@@ -45,6 +45,7 @@
         <a href="https://google.com">link to google</a>
         <p>for openning in new tab</p>
         <a href="https://google.com" target="_blank">link to google new</a>
+        <!-- to add commnet ctrl+? -->
         
 
         </body>
