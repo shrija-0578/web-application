@@ -32,7 +32,7 @@
             
         </dl>
         <h2>Formating</h2>
-        <p>this is inline formatting <br> <b>bold</b>...<i>italic</i>...<u>underline</u>...<em> Emphasized text</em>... 
+        <p>this is inline formatting <br> <b>bold</b>...<i>italic</i>...<u>underline</u>...<em> emphasized text</em>... 
             <mark>Marked text</mark>...<small>Smaller text</small>... Q<sub>Subscript text</sub>... 
             Q<sup>Superscript text</sup>...<strong>Important text</strong>...
             <del>Deleted text</del>
@@ -46,6 +46,51 @@
         <p>for openning in new tab</p>
         <a href="https://google.com" target="_blank">link to google new</a>
         <!-- to add commnet ctrl+? -->
+         <h2>media file addition</h2>
+         <p>image addition</p>
+         <img scr="C:\Users\shrij\Desktop\web_app\web-application\pic_1.png" alt="an image" height="400" width="400">
+         <img scr="pic_2.JPG" alt="an image" height="400" width="400">
+         <img scr="https://media.licdn.com/dms/image/v2/C510BAQGHhq9X-H8LyQ/company-logo_200_200/company-logo_200_200/0/1631345366169?e=2147483647&v=beta&t=8hq7Hhr_Vlu6uIXpTU9yv31n6jB0_zBzvuFqHmHGwlg" alt="an image" height="400" width="400">
+
+         <p>vedio addition</p>
+         <video height="300" width="400" controls>
+            <source src="vedio_1" type="mp4/vedio">
+         </video>
+         <h2>Table formation</h2>
+         <br>
+         <table border="1" cellspacing="0" cellpading="0">
+            <tr>
+                <!-- column headders  -->
+                <th>name</th>   
+                <th>maths</th>
+                <th>physics</th>
+                <th>chemisry</th>
+            </tr>
+            <!-- data entered row wise -->
+             <tr>
+                <td>riya</td>   
+                <td>62</td>
+                <td>45</td>
+                <td>45</td>
+
+             </tr>
+             <tr>
+                <td>priya</td>   
+                <td>89</td>
+                <td>99</td>
+                <td>95</td>
+
+             </tr>
+             <tr>
+                <td>shriya</td>   
+                <td>99</td>
+                <td>98</td>
+                <td>97</td>
+
+             </tr>
+
+         </table>
+
         
 
         </body>
