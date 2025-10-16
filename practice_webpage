@@ -59,6 +59,8 @@
          <h2>Table formation</h2>
          <br>
          <table border="1" cellspacing="0" cellpading="0">
+            <!-- table tittle -->
+            <caption><strong>student marks</strong> </caption>
             <tr>
                 <!-- column headders  -->
                 <th>name</th>   
@@ -88,6 +90,25 @@
                 <td>97</td>
 
              </tr>
+
+         </table>
+         <h5>spaning</h5>
+         <table border="2">
+            <caption>data</caption>
+            <tr>
+                <th rowspan="2">name</th>
+                <th colspan="2">marks</th>
+            </tr>
+            <tr>
+                <th>maths</th>
+                <th>english</th>
+            </tr>
+            <tr>
+                <td>riya</td>
+                <td>85</td>
+                <td>89</td>
+            </tr>
+
 
          </table>
 
