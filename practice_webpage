@@ -48,13 +48,14 @@
         <!-- to add commnet ctrl+? -->
          <h2>media file addition</h2>
          <p>image addition</p>
-         <img scr="C:\Users\shrij\Desktop\web_app\web-application\pic_1.png" alt="an image" height="400" width="400">
-         <img scr="pic_2.JPG" alt="an image" height="400" width="400">
-         <img scr="https://media.licdn.com/dms/image/v2/C510BAQGHhq9X-H8LyQ/company-logo_200_200/company-logo_200_200/0/1631345366169?e=2147483647&v=beta&t=8hq7Hhr_Vlu6uIXpTU9yv31n6jB0_zBzvuFqHmHGwlg" alt="an image" height="400" width="400">
+         <img src="pic_1.png" alt="an image 1" height="400" width="400">
+         <img src="pic_2.JPG" alt="an image 2" height="400" width="400">
+         <img src="https://media.licdn.com/dms/image/v2/C510BAQGHhq9X-H8LyQ/company-logo_200_200/company-logo_200_200/0/1631345366169?e=2147483647&v=beta&t=8hq7Hhr_Vlu6uIXpTU9yv31n6jB0_zBzvuFqHmHGwlg" alt="an image online" height="400" width="400">
 
          <p>vedio addition</p>
          <video height="300" width="400" controls>
-            <source src="vedio_1" type="mp4/vedio">
+            <source src="vedio_1" type="video/mp4">
+            your brower doesnt support
          </video>
          <h2>Table formation</h2>
          <br>
