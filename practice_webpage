@@ -2,6 +2,13 @@
 <html>
     <head>
         <tittle>webpage notes</tittle>
+        <!-- internal css -->
+        <style>
+            body {background-color: rgb(241, 224, 255);}
+            h1{background-color: aquamarine;}
+            h2{background-color: rgb(163, 220, 251);font-family: cursive;}
+            
+        </style>
     </head>
     <body>
         <h1>this is header line </h1>
@@ -139,6 +146,12 @@
 
 
          </table>
+         <hr><hr>
+
+         <h2>Basic CSS</h2>
+         <p>inline : using style attribute <br> Internal - by using a  style in header section<br> External - by using a link element to link to an external CSS file</p>
+         
+
 
         
 
