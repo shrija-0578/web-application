@@ -9,6 +9,8 @@
         <p>paraghaph line</p>
         <br>
         <p>above is line space using br <br> its self closing tag and can be applied in between as well </p>
+        <hr>
+
         <h2>Lets try list</h2>
         <p>list are of 3 types:</p>
         <p>unordered</p>
@@ -31,14 +33,34 @@
             <dd>oreo shake is tasty</dd>
             
         </dl>
+        <hr>
+        <hr>
+
+
+
+
         <h2>Formating</h2>
+        <p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
         <p>this is inline formatting <br> <b>bold</b>...<i>italic</i>...<u>underline</u>...<em> emphasized text</em>... 
             <mark>Marked text</mark>...<small>Smaller text</small>... Q<sub>Subscript text</sub>... 
             Q<sup>Superscript text</sup>...<strong>Important text</strong>...
             <del>Deleted text</del>
             </p>
-            <p style="font-family:courier;color:blue;font-size:300%;text-align:center;">Style formating   </p>
+
+
+            <p style="font-family:courier;color:blue;font-size:300%;text-align:center;border:2px solid Tomato;">Style formating   </p>
+            <p>My favorite color is <del>green</del> <ins>blue</ins>.</p>
+            <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+            <p dir="rtl">This line will be written from right to left</p>
+            <p>If your browser supports bi-directional override (bdo), the next line will be written from right to left (rtl):</p>
+
+            <bdo dir="rtl">This line will be written from right to left</bdo>
+
         <hr>
+        <hr>
+
+
+
         <h2>Line tag</h2>
         <h2>Anchor tag</h2>
         <p>this tag helps to add link to a text </p>
@@ -46,20 +68,25 @@
         <p>for openning in new tab</p>
         <a href="https://google.com" target="_blank">link to google new</a>
         <!-- to add commnet ctrl+? -->
+         <hr>
          <h2>media file addition</h2>
          <p>image addition</p>
          <img src="pic_1.png" alt="an image 1" height="400" width="400">
          <img src="pic_2.JPG" alt="an image 2" height="400" width="400">
          <img src="https://media.licdn.com/dms/image/v2/C510BAQGHhq9X-H8LyQ/company-logo_200_200/company-logo_200_200/0/1631345366169?e=2147483647&v=beta&t=8hq7Hhr_Vlu6uIXpTU9yv31n6jB0_zBzvuFqHmHGwlg" alt="an image online" height="400" width="400">
-
+        <hr>
          <p>vedio addition</p>
          <video height="300" width="400" controls>
             <source src="vedio_1" type="video/mp4">
             your brower doesnt support
          </video>
+
+
+        <hr>
+        <hr>
          <h2>Table formation</h2>
          <br>
-         <table border="1" cellspacing="0" cellpading="0">
+         <table border="1" cellspacing="0" cellpading="0" style="text-align: center;">
             <!-- table tittle -->
             <caption><strong>student marks</strong> </caption>
             <tr>
