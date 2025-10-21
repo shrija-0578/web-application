@@ -150,6 +150,10 @@
 
          <h2>Basic CSS</h2>
          <p>inline : using style attribute <br> Internal - by using a  style in header section<br> External - by using a link element to link to an external CSS file</p>
+
+         <h2>URL</h2>
+         <p>relative url</p>
+         <p>absolute url</p>
          
 
 
