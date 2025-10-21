@@ -6,13 +6,14 @@
         <style>
             body {background-color: rgb(241, 224, 255);}
             h1{background-color: aquamarine;}
-            h2{background-color: rgb(163, 220, 251);font-family: cursive;}
+            h2{background-color: rgb(163, 220, 251);font-family: cursive;text-align: center;}
             div {
                 width: 10%;
                 display: inline-block;
                 }
             #block_1{width: 30%;display: inline-block;background-color: rgb(113, 238, 215);text-align: center;padding: 3px;}
             #block_2{width: 30%;display: inline-block;background-color: rgb(238, 132, 113);text-align: center;padding: 3px; }
+            .sub{background-color: tomato;color: white;padding: 10px;width: 30%;}
                             
         </style>
     </head>
@@ -170,6 +171,10 @@
          <div id="block_1"><h4>its first cointainer</h4><br> enter txt</div>
          <div id="block_2"><h4>its second cointainer</h4><br> enter txt</div>
          
+         <p>for styling particular cointainer use class method</p>
+         <div class="sub">Maths</div>
+         <div class="sub">English</div>
+         <div class="sub">cs</div>
          
          
 
