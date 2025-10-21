@@ -18,7 +18,8 @@
         <p>above is line space using br <br> its self closing tag and can be applied in between as well </p>
         <hr>
 
-        <h2>Lets try list</h2>
+         <!-- Contact Section with ID -->
+        <h2 id="list">Lets try list</h2>
         <p>list are of 3 types:</p>
         <p>unordered</p>
         <ul>
@@ -153,9 +154,9 @@
 
          <h2>URL</h2>
          <p>relative url</p>
-         <a href="http://127.0.0.1:3000/Experiment_3" target="_blank"">my experiment 2</a>
+         <a href="#list">list wala topic</a>
          <p>absolute url</p>
-
+         <a href="http://127.0.0.1:3000/Experiment_3" target="_blank"">my experiment 2</a>
          
 
 
