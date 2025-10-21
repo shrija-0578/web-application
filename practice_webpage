@@ -8,9 +8,11 @@
             h1{background-color: aquamarine;}
             h2{background-color: rgb(163, 220, 251);font-family: cursive;}
             div {
-                width: 30%;
+                width: 10%;
                 display: inline-block;
                 }
+            #block_1{width: 30%;display: inline-block;background-color: rgb(113, 238, 215);text-align: center;padding: 3px;}
+            #block_2{width: 30%;display: inline-block;background-color: rgb(238, 132, 113);text-align: center;padding: 3px; }
                             
         </style>
     </head>
@@ -161,7 +163,12 @@
          <a href="#list">list wala topic</a>
          <p>absolute url</p>
          <a href="http://127.0.0.1:3000/Experiment_3" target="_blank"">my experiment 2</a>
+
+        <h2>div cointainer</h2>
          <P>using div creates a cointainer like this one<div style="border: 3px purple;background-color: rgb(236, 247, 176);color: rgb(10, 10, 50);">hello how R U</div> used as inline elemnt by styling in header</P>
+         <p>for styling particular cointainer use id method</p>
+         <div id="block_1"><h4>its first cointainer</h4><br> enter txt</div>
+         <div id="block_2"><h4>its second cointainer</h4><br> enter txt</div>
          
          
          
