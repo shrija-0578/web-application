@@ -157,6 +157,7 @@
          <a href="#list">list wala topic</a>
          <p>absolute url</p>
          <a href="http://127.0.0.1:3000/Experiment_3" target="_blank"">my experiment 2</a>
+         <P>using div creates a cointainer like this one<div style="border: 3px purple;background-color: rgb(236, 247, 176);color: rgb(10, 10, 50);">hello how R U</div> used as bock elemnt</P>
          
 
 
