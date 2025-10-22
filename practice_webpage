@@ -175,6 +175,9 @@
          <div class="sub">Maths</div>
          <div class="sub">English</div>
          <div class="sub">cs</div>
+
+         <p>we can have even emojies &#9996</p>
+         <p style="font-size:100px">&#9996;</p>
          
          
 
