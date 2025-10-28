@@ -168,8 +168,8 @@
         <h2>div cointainer</h2>
          <P>using div creates a cointainer like this one<div style="border: 3px purple;background-color: rgb(236, 247, 176);color: rgb(10, 10, 50);">hello how R U</div> used as inline elemnt by styling in header</P>
          <p>for styling particular cointainer use id method</p>
-         <div id="block_1"><h4>its first cointainer</h4><br> enter txt</div>
-         <div id="block_2"><h4>its second cointainer</h4><br> enter txt</div>
+         <div id="block_1"><h4>block_1<br>its first cointainer</h4><br> enter txt</div>
+         <div id="block_2"><h4>block_2<br>its second cointainer</h4><br> enter txt</div>
          
          <p>for styling particular cointainer use class method</p>
          <div class="sub">Maths</div>
