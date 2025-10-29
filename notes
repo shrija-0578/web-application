@@ -1,0 +1,9 @@
+1. to push file in git hub (by terminal method)
+ git init               to initialise
+ git status             to check status
+ git add .              to add to staging area
+ git commit -m "initial commit"         to add commit
+ git remote add origin https://github.com/shrija-0578/demo2.git   to add loaction for git hub repo
+ git branch -M main             to set branch
+ git pull --rebase origin main      to maintian remote repo with local file
+ git push origin main               to finaly push file to remote repo
