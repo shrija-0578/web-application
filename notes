@@ -7,3 +7,10 @@
  git branch -M main             to set branch
  git pull --rebase origin main      to maintian remote repo with local file
  git push origin main               to finaly push file to remote repo
+
+
+four stages of github
+    working directory
+    staging area
+    local repo
+    remote repo
