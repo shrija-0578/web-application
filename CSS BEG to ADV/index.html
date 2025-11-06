@@ -21,6 +21,16 @@
                 color: rgb(255, 5, 5);
                  display: inline-block;
             }
+            /*id selector*/
+            #unique{
+                background-color: rgb(0, 247, 255);
+                color: rgb(54, 0, 45);
+                 display: inline-block;
+            }
+            /*decendent selector*/
+            div p{
+                color: blue;
+            }
         </style>
     </head>
     <body>
@@ -28,5 +38,11 @@
         <h2 style="background-color: rgb(58, 19, 19);color: #ffffff;text-align: center;">example for inline CSS</h1>
         <h3>Internal CSS example</h3>
         <p class="highlight">class selector example</p>
+        
+        <p id="unique">id selector example</p>
+        <div>
+        <h4>heading in div cointainer</h4>
+        <p>this is example of decendent </p>
+        </div>
     </body>
 </html>
